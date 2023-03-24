@@ -1,0 +1,5 @@
+JRE java runtime evironment ambiente de execução java, contem o JVM e bibliotecas.
+JDK inclui o compilador e uns paranoe
+
+
+Se eu usar um método static basicamente posso usar esse método sem criar um objeto
